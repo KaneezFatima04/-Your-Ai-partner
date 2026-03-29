@@ -21,7 +21,7 @@ export default function Onboarding() {
            <Character />
         </div>
 
-        <Link href="/auth" className="inline-flex items-center gap-2 bg-white text-black px-8 py-4 rounded-full font-bold hover:bg-blue-500 hover:text-white transition-all transform hover:scale-105 active:scale-95">
+        <Link href="/signup" className="inline-flex items-center gap-2 bg-white text-black px-8 py-4 rounded-full font-bold hover:bg-blue-500 hover:text-white transition-all transform hover:scale-105 active:scale-95">
           Start Chatting <ArrowRight size={20} />
         </Link>
       </div>
